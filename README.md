@@ -153,7 +153,6 @@ Video de funcionamiento
 [![Video-20211796](https://img.youtube.com/vi/v=EKv0EQlmn2s&ab_channel=PAULINAJIMENEZRIVERA/0.jpg)](https://www.youtube.com/watch?v=Zg2advtpqTI&feature=youtu.be&ab_channel=PAULINAJIMENEZRIVERA)
 
 Led de la Pico apagado:
-![](ledoff.png)
 ![](ledoff2.png)
 
 Led de la Pico encendido:

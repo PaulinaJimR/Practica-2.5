@@ -152,7 +152,7 @@ Video de funcionamiento
 
 [![Video-20211796](https://img.youtube.com/vi/v=EKv0EQlmn2s&ab_channel=PAULINAJIMENEZRIVERA/0.jpg)](https://www.youtube.com/watch?v=Zg2advtpqTI&feature=youtu.be&ab_channel=PAULINAJIMENEZRIVERA)
 
-Diseño de interfaz
+****Diseño de interfaz:**
 Al momento de ejecutar se depsliega una IP, la cual se ingresará al teléfono y de esta manera se presentará
 la siguiente interfaz personalizada
 
